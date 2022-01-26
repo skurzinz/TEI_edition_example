@@ -28,6 +28,12 @@
         
         \begin{document}
         <xsl:apply-templates/>
+        
+        \section{Liste der genannten Daten}
+        <xsl:for-each select="//tei:date">
+            <xsl:text>\\- </xsl:text>
+            <xsl:value-of select="@when"/>
+        </xsl:for-each>
         \end{document}
     </xsl:template>
     
