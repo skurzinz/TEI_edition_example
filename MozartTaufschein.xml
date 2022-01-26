@@ -28,31 +28,34 @@ https://github.com/ism-dme/mobri/blob/ac46516b73a77bebcbbfe85f7df8060817d54c97/x
         <zone points="430,929 466,929 486,921 503,931 521,926 564,933 593,930 593,895 572,894 565,900 556,894 542,903 526,897 500,902 493,898 483,907 456,896 430,906" rendition="Line" xml:id="facs_1_r1l33"/>
         <zone points="420,980 502,966 526,978 549,964 577,987 609,989 637,964 695,996 737,986 736,947 703,947 681,932 654,933 632,949 607,941 572,950 484,923 457,941 419,943" rendition="Line" xml:id="facs_1_r1l34"/>
         <zone points="503,1015 525,1011 555,1018 570,1010 592,1022 610,1013 709,1019 709,975 651,987 625,972 602,990 576,987 551,965 524,980 503,971" rendition="Line" xml:id="facs_1_r1l35"/>
-      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r1" type="">
-      <lb facs="#facs_1_r1l6" n="N001"/>Tauf-Schein.
+      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><div facs="#facs_1_r1" type="taufschein">
+      <head><lb facs="#facs_1_r1l6" n="N001"/>Tauf-Schein.</head>
+        <p>
       <lb facs="#facs_1_r1l8" n="N002"/>Aus dem Taufbuche der Dompfarre
-      <lb facs="#facs_1_r1l9" n="N003"/>zu Salzberg vom Jahre <date month="0" day="0" year="0">1756</date>.
+      <lb facs="#facs_1_r1l9" n="N003"/>zu Salzberg vom Jahre <date when="1756">1756</date>.
       <lb facs="#facs_1_r1l10" n="N004"/>pag). 2. wird hiermit bezeugt,
       <lb facs="#facs_1_r1l11" n="N005"/>daß Joannes Chrysost. Wolfgangus Theo¬
       <lb facs="#facs_1_r1l12" n="N006"/>philus, ehelicher Sohn des Edlen
-      <lb facs="#facs_1_line_1643200303807_56" n="N007"/><rs type="person">Herrn Leopold Mozart</rs>, Hof¬
+        <lb facs="#facs_1_line_1643200303807_56" n="N007"/><rs type="person" key="https://d-nb.info/gnd/118584588">Herrn Leopold Mozart</rs>, Hof¬
       <lb facs="#facs_1_r1l15" n="N008"/>Musikers, und der Mariie Ann
       <lb facs="#facs_1_r1l16" n="N009"/>Pertlin, dessen Gattin, am
-      <lb facs="#facs_1_r1l17" n="N010"/><date month="0" day="0" year="0">27sten Jäner 1756</date>. 1: Sieben-
+        <lb facs="#facs_1_r1l17" n="N010"/><date when="1756-01-27">27sten Jäner 1756</date>. 1: Sieben-
       <lb facs="#facs_1_r1l18" n="N011"/>Zehn Hundert, sechs u. fünfzig
       <lb facs="#facs_1_r1l19" n="N012"/>und 8 Uhr abends geboren,
-      <lb facs="#facs_1_r1l20" n="N013"/>undem <date month="0" day="0" year="0">28sten Jäner 1756</date>. um 11 Uhr
+      <lb facs="#facs_1_r1l20" n="N013"/>undem <date when="1756-01-28">28sten Jäner 1756</date>. um 11 Uhr
       <lb facs="#facs_1_r1l21" n="N014"/>Vormittags im Beyseyn des Edlen
       <lb facs="#facs_1_r1l22" n="N015"/>Herrn Johann Theophilus Pergmayr,
       <lb facs="#facs_1_r1l23" n="N016"/>bürgerlichen Rathes u. Handesmanet
       <lb facs="#facs_1_r1l24" n="N017"/>v. Jl. Spbnsi vom Herrn Stadt¬
       <lb facs="#facs_1_r1l25" n="N018"/>Kaplane Leopold Lamprecht nach
       <lb facs="#facs_1_r1l26" n="N019"/>katholischem Ritus gekauft worden
-      <lb facs="#facs_1_r1l27" n="N020"/>sing
+          <lb facs="#facs_1_r1l27" n="N020"/>sing</p>
+        <p>
       <lb facs="#facs_1_r1l28" n="N021"/>Uhrkund dessen ist die Parr¬
-      <lb facs="#facs_1_r1l29" n="N022"/>amtliche Fertigung.
+          <lb facs="#facs_1_r1l29" n="N022"/>amtliche Fertigung.</p>
+        <closer>
       <lb facs="#facs_1_r1l30" n="N023"/>B. E. Dompfarramt
-      <lb facs="#facs_1_line_1643200333132_78" n="N024"/>zu Salzburg am <date month="0" day="0" year="0" continued="true">16. Dezem¬</date>
-      <lb facs="#facs_1_r1l33" n="N025"/><date month="0" day="0" year="0" continued="true">ber 1841.</date>
-      <lb facs="#facs_1_r1l34" n="N026"/>Balthasar Schitteri.
-      <lb facs="#facs_1_r1l35" n="N027"/>Dompfarrer.</ab></div></body></text></TEI>
+        <dateline><lb facs="#facs_1_line_1643200333132_78" n="N024"/>zu Salzburg am <date when="1841-12-16">16. Dezem¬
+      <lb facs="#facs_1_r1l33" n="N025"/>ber 1841.</date></dateline>
+      <signed><lb facs="#facs_1_r1l34" n="N026"/>Balthasar Schitteri.
+          <lb facs="#facs_1_r1l35" n="N027"/>Dompfarrer.</signed></closer></div></div></body></text></TEI>
