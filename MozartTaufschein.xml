@@ -40,8 +40,7 @@
       <lb n="N002" facs="#facs_1_r1l8"/>Aus dem Taufbuche der Dompfarre
       <lb n="N003" facs="#facs_1_r1l9"/>zu <placeName xml:id="recogito-bf56e3e8-376c-4f46-8de6-9ba6e9e4f7e6" ref="http://sws.geonames.org/2766823" cert="high">Salzberg</placeName> vom Jahre <date when="1756">1756</date>.
       <lb n="N004" facs="#facs_1_r1l10"/>pag). 2. wird hiermit bezeugt,
-      <lb n="N005" facs="#facs_1_r1l11"/>daß <persName xml:id="recogito-2e233327-85fb-4a80-a94d-17c983c476bb">Joannes Chrysost. Wolfgangus Theo¬</persName>      
-      <lb n="N006" facs="#facs_1_r1l12"/>philus, ehelicher Sohn des Edlen
+      <lb n="N005" facs="#facs_1_r1l11"/>daß <persName xml:id="recogito-2e233327-85fb-4a80-a94d-17c983c476bb">Joannes Chrysost. Wolfgangus Theo<lb break="no" n="N006" facs="#facs_1_r1l12"/>philus</persName>, ehelicher Sohn des Edlen
       <lb n="N007" facs="#facs_1_line_1643200303807_56"/>Herrn <persName xml:id="recogito-fe060d52-d2dc-4520-8df0-90b7e153c42d" key="https://d-nb.info/gnd/118584588">Leopold Mozart</persName>, Hof¬
       <lb n="N008" facs="#facs_1_r1l15"/>Musikers, und der <persName xml:id="recogito-0a4c74f3-9498-4257-a337-f32de3735ba7">Mariie Ann Pertlin</persName>, dessen Gattin, am
       <lb n="N010" facs="#facs_1_r1l17"/><date when="1756-01-27">27sten Jäner 1756</date>. 1: Sieben-
@@ -51,16 +50,16 @@
       <lb n="N014" facs="#facs_1_r1l21"/>Vormittags im Beyseyn des Edlen
       <lb n="N015" facs="#facs_1_r1l22"/>Herrn <persName xml:id="recogito-6fc90143-947e-44ce-acdb-ce969403fd53">Johann Theophilus Pergmayr</persName>,
       <lb n="N016" facs="#facs_1_r1l23"/>bürgerlichen Rathes u. Handesmanet
-      <lb n="N017" facs="#facs_1_r1l24"/>v. Jl. <persName xml:id="recogito-8be509a4-69f8-46c1-b60b-fc2926449860">Spbnsi</persName> vom Herrn Stadt¬
+      <lb n="N017" facs="#facs_1_r1l24"/>v. Jl. <persName xml:id="recogito-8be509a4-69f8-46c1-b60b-fc2926449860">Spbnsi</persName> vom Herrn Stadt-
       <lb n="N018" facs="#facs_1_r1l25"/>Kaplane <persName xml:id="recogito-146760d9-aa19-4304-ad0e-c78d90c43ace">Leopold Lamprecht</persName> nach
       <lb n="N019" facs="#facs_1_r1l26"/>katholischem Ritus gekauft worden
       <lb n="N020" facs="#facs_1_r1l27"/>sing</p>
     <p>
-      <lb n="N021" facs="#facs_1_r1l28"/>Uhrkund dessen ist die Parr¬
-      <lb n="N022" facs="#facs_1_r1l29"/>amtliche Fertigung.</p>
+      <lb n="N021" facs="#facs_1_r1l28"/>Uhrkund dessen ist die Parr<lb break="no" n="N022" facs="#facs_1_r1l29"/>amtliche Fertigung.</p>
     <closer>
       <lb n="N023" facs="#facs_1_r1l30"/>B. E. Dompfarramt
       <dateline><lb n="N024" facs="#facs_1_line_1643200333132_78"/>zu <placeName xml:id="recogito-59f42809-7049-4e8f-97b5-49c8876c8ebd" ref="http://sws.geonames.org/2766824" cert="high">Salzburg</placeName> am <date when="1841-12-16">16. Dezem¬
         <lb n="N025" facs="#facs_1_r1l33"/>ber 1841.</date></dateline>
       <signed><lb n="N026" facs="#facs_1_r1l34"/><persName xml:id="recogito-af566a5c-ce66-48ab-bd4f-ec273d83fa4f">Balthasar Schitteri</persName>.
-        <lb n="N027" facs="#facs_1_r1l35"/>Dompfarrer.</signed></closer></div></div></body></text></TEI>
+        <lb n="N027" facs="#facs_1_r1l35"/>Dompfarrer.</signed></closer>
+  </div></div></body></text></TEI>
