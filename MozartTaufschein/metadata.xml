@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>902196</docId>
+    <title>MozartTaufschein</title>
+    <uploadTimestamp>1643187378481</uploadTimestamp>
+    <uploader>stephan.kurz@univie.ac.at</uploader>
+    <uploaderId>1346</uploaderId>
+    <nrOfPages>1</nrOfPages>
+    <pageId>34429721</pageId>
+    <url>https://files.transkribus.eu/Get?id=JFCKMZZQHXAVTHFJSPPTEMMB&amp;fileType=view</url>
+    <thumbUrl>https://files.transkribus.eu/Get?id=JFCKMZZQHXAVTHFJSPPTEMMB&amp;fileType=thumb</thumbUrl>
+    <externalId>NA</externalId>
+    <authority>NA</authority>
+    <desc>https://dme.mozarteum.at/DME/briefe/transcrscan_syn.php?g=Zm49Li4vb2Jqcy9yYXJhZG9jcy90cmFuc2NyL2h0bS9Eb2MxNzU2XzFfbXVwLmh0bSNwZzEmaW49Li4vb2Jqcy9yYXJhZG9jcy9mYWNzaW0vd2ViL0RvYzE3NTZfMV9wMDEuanBn&#13;
+&#13;
+https://github.com/ism-dme/mobri/blob/ac46516b73a77bebcbbfe85f7df8060817d54c97/xml/Doc1756_1_mup.xml</desc>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_902196</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>135247</colId>
+            <colName>DH_Sbg_showcase</colName>
+            <description>created by stephan.kurz@univie.ac.at</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>

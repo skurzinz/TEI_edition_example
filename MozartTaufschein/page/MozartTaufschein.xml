@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_M2(htr_id=23847)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-01-26T09:56:19.036+01:00</Created>
+        <LastChange>2022-01-26T13:39:05.866+01:00</LastChange>
+        <TranskribusMetadata docId="902196" pageId="34429721" pageNr="1" tsid="73914386" status="IN_PROGRESS" userId="1346" imgUrl="https://files.transkribus.eu/Get?id=JFCKMZZQHXAVTHFJSPPTEMMB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QGIFVIJLLSISFTIZNFAWGRAS" imageId="27626650"/>
+    </Metadata>
+    <Page imageFilename="MozartTaufschein.jpg" imageWidth="800" imageHeight="1067">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1643200787309" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="149,41 149,1015 741,1015 741,41"/>
+            <TextLine id="r1l6" custom="readingOrder {index:0;}">
+                <Coords points="283,194 307,199 374,177 383,185 401,171 452,185 517,171 550,186 592,170 591,136 560,145 522,123 500,135 463,126 436,145 404,140 345,164 332,157 282,172"/>
+                <Baseline points="288,185 315,181 342,178 369,175 396,173 423,172 451,171 478,171 505,170 532,170 559,169 587,169"/>
+                <TextEquiv>
+                    <Unicode>Tauf-Schein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:1;}">
+                <Coords points="144,284 444,258 736,272 735,243 670,228 635,244 601,219 525,244 439,220 280,241 241,219 198,257 143,233"/>
+                <Baseline points="149,268 178,267 207,266 236,266 265,264 294,263 323,262 352,261 381,260 410,259 440,259 469,258 498,258 527,258 556,258 585,259 614,260 643,262 672,264 701,266 731,270"/>
+                <TextEquiv>
+                    <Unicode>Aus dem Taufbuche der Dompfarre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:2;} date {offset:22; length:4;year:0; day:0; month:0;}">
+                <Coords points="147,322 228,297 259,316 290,300 364,314 407,289 687,305 687,268 529,275 474,260 437,280 409,264 147,281"/>
+                <Baseline points="152,301 178,299 205,297 231,295 258,293 284,292 311,291 337,290 364,290 390,290 417,290 443,290 470,290 496,291 523,292 549,292 576,293 602,295 629,297 655,298 682,299"/>
+                <TextEquiv>
+                    <Unicode>zu Salzberg vom Jahre 1756.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="169,337 565,321 648,345 684,323 717,336 717,296 670,313 408,288 367,312 334,292 262,316 234,300 169,310"/>
+                <Baseline points="174,331 200,330 227,328 254,326 281,325 308,324 335,323 362,322 389,322 416,322 443,321 469,321 496,321 523,322 550,322 577,322 604,323 631,323 658,324 685,324 712,325"/>
+                <TextEquiv>
+                    <Unicode>pag). 2. wird hiermit bezeugt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="158,370 370,352 421,370 466,349 584,373 618,353 721,359 720,336 683,323 650,343 266,325 157,350"/>
+                <Baseline points="163,363 190,361 218,358 245,357 273,354 301,353 328,352 356,350 384,350 411,349 439,349 467,348 494,348 522,348 550,349 577,349 605,350 633,350 660,351 688,353 716,354"/>
+                <TextEquiv>
+                    <Unicode>daß Joannes Chrysost. Wolfgangus Theo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="163,401 417,377 454,396 479,379 579,375 627,398 718,376 682,355 589,350 513,369 470,348 429,370 391,352 261,377 235,358 163,373"/>
+                <Baseline points="168,393 195,390 222,387 249,385 277,383 304,382 331,381 358,380 386,379 413,378 440,378 467,377 495,377 522,377 549,377 576,377 604,376 631,376 658,376 685,376 713,375"/>
+                <TextEquiv>
+                    <Unicode>philus, ehelicher Sohn des Edlen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1643200303807_56" custom="readingOrder {index:6;} person {offset:0; length:20;}">
+                <Coords points="191,389 661,374 708,378 709,419 625,429 168,434 163,434 162,403"/>
+                <Baseline points="167,416 204,416 241,415 254,416 280,413 306,410 333,408 359,407 386,406 412,405 438,405 465,404 491,404 518,404 544,404 570,404 597,404 623,403 650,403 676,402 703,401"/>
+                <TextEquiv>
+                    <Unicode>Herrn Leopold Mozart, Hof¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:7;}">
+                <Coords points="170,448 420,436 445,450 712,452 725,413 622,430 566,406 414,403 362,429 308,409 170,427"/>
+                <Baseline points="175,446 202,444 229,442 256,441 284,440 311,440 338,439 365,439 393,439 420,439 447,439 474,439 502,440 529,440 556,440 583,441 611,441 638,442 665,442 692,443 720,443"/>
+                <TextEquiv>
+                    <Unicode>Musikers, und der Mariie Ann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:8;}">
+                <Coords points="168,480 321,461 412,473 438,457 689,474 689,454 617,444 168,451"/>
+                <Baseline points="173,471 198,469 224,468 249,466 275,465 300,464 326,463 351,462 377,461 402,461 428,460 454,460 479,460 505,460 530,461 556,461 581,462 607,463 632,464 658,465 684,467"/>
+                <TextEquiv>
+                    <Unicode>Pertlin, dessen Gattin, am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:9;} date {offset:0; length:17;year:0; day:0; month:0;}">
+                <Coords points="167,505 575,483 722,506 732,470 436,459 383,477 321,461 167,479"/>
+                <Baseline points="172,501 199,498 227,496 255,494 283,492 310,491 338,490 366,489 394,489 421,490 449,490 477,491 505,491 532,492 560,493 588,494 616,495 643,496 671,497 699,498 727,499"/>
+                <TextEquiv>
+                    <Unicode>27sten Jäner 1756. 1: Sieben-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:10;}">
+                <Coords points="176,547 267,518 452,522 470,538 532,507 648,545 681,526 736,529 736,507 648,510 597,487 176,504"/>
+                <Baseline points="181,526 208,525 236,524 263,523 291,523 318,522 346,521 373,520 401,520 428,520 456,519 483,519 511,519 538,519 566,520 593,521 621,521 648,523 676,524 703,526 731,528"/>
+                <TextEquiv>
+                    <Unicode>Zehn Hundert, sechs u. fünfzig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:11;}">
+                <Coords points="168,571 382,545 434,560 576,545 681,560 680,531 601,537 557,520 473,535 451,522 387,520 359,536 220,526 168,548"/>
+                <Baseline points="173,557 198,555 223,553 248,551 273,550 298,548 323,547 349,546 374,546 399,545 424,545 449,545 474,545 499,545 525,545 550,546 575,546 600,547 625,548 650,549 676,550"/>
+                <TextEquiv>
+                    <Unicode>und 8 Uhr abends geboren,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:12;} date {offset:6; length:17;year:0; day:0; month:0;}">
+                <Coords points="171,597 311,577 429,579 453,596 740,586 739,552 718,549 661,566 581,545 171,568"/>
+                <Baseline points="176,590 205,587 234,584 264,581 293,579 323,578 352,577 381,577 411,577 440,577 470,577 499,578 529,578 558,579 587,579 617,580 646,580 676,580 705,579 735,579"/>
+                <TextEquiv>
+                    <Unicode>undem 28sten Jäner 1756. um 11 Uhr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:13;}">
+                <Coords points="169,634 204,614 284,631 332,604 534,620 564,602 679,621 738,611 738,589 422,593 401,577 309,577 169,599"/>
+                <Baseline points="174,617 203,614 232,611 262,610 291,608 321,606 350,606 379,605 409,604 438,604 468,604 497,604 527,604 556,604 585,604 615,605 644,605 674,606 703,606 733,607"/>
+                <TextEquiv>
+                    <Unicode>Vormittags im Beyseyn des Edlen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:14;}">
+                <Coords points="178,660 308,631 381,654 451,633 482,653 524,633 660,635 693,655 745,644 744,615 635,603 177,623"/>
+                <Baseline points="182,646 209,643 237,640 265,638 293,636 321,634 349,632 376,631 404,630 432,629 460,629 488,628 516,628 544,628 571,628 599,629 627,629 655,630 683,631 711,632 739,633"/>
+                <TextEquiv>
+                    <Unicode>Herrn Johann Theophilus Pergmayr,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:15;}">
+                <Coords points="174,688 531,655 558,671 704,668 731,665 730,634 588,631 569,646 479,629 381,652 306,632 173,665"/>
+                <Baseline points="179,675 206,673 233,670 260,667 288,666 315,663 342,662 370,661 397,659 424,658 452,657 479,657 506,657 533,657 561,657 588,657 615,658 643,659 670,660 697,661 725,662"/>
+                <TextEquiv>
+                    <Unicode>bürgerlichen Rathes u. Handesmanet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:16;}">
+                <Coords points="198,723 272,699 323,707 361,683 416,704 458,689 483,707 544,689 722,698 721,664 639,661 495,678 321,665 197,686"/>
+                <Baseline points="203,703 228,699 254,697 280,694 305,692 331,691 357,689 382,688 408,687 434,686 460,686 485,686 511,686 537,686 562,686 588,687 614,687 639,687 665,687 691,687 717,687"/>
+                <TextEquiv>
+                    <Unicode>v. Jl. Spbnsi vom Herrn Stadt¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:17;}">
+                <Coords points="178,737 327,718 416,739 448,716 471,733 509,715 538,736 581,720 610,739 632,718 711,727 738,701 417,704 364,682 321,708 211,700 177,715"/>
+                <Baseline points="183,732 210,729 238,727 265,724 293,722 320,720 348,719 375,717 403,716 430,715 458,715 485,714 513,714 540,714 568,714 595,714 623,714 650,715 678,716 705,717 733,718"/>
+                <TextEquiv>
+                    <Unicode>Kaplane Leopold Lamprecht nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:18;}">
+                <Coords points="170,773 220,760 261,776 368,744 421,761 464,747 498,770 692,754 720,771 747,761 746,720 169,739"/>
+                <Baseline points="175,762 203,759 231,757 259,754 288,753 316,751 344,749 373,747 401,746 429,745 458,744 486,744 514,744 542,744 571,744 599,744 627,745 656,746 684,747 712,748 741,750"/>
+                <TextEquiv>
+                    <Unicode>katholischem Ritus gekauft worden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:19;}">
+                <Coords points="187,814 209,807 221,794 226,795 235,791 245,799 251,793 261,790 258,772 253,773 249,770 245,772 237,767 224,765 218,760 200,775 189,773 180,776"/>
+                <Baseline points="189,795 222,789 255,784"/>
+                <TextEquiv>
+                    <Unicode>sing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:20;}">
+                <Coords points="293,818 412,797 534,812 570,794 622,810 671,793 729,811 728,771 695,777 655,762 621,780 589,767 425,774 377,754 292,772"/>
+                <Baseline points="297,802 322,801 347,800 372,799 397,797 422,797 447,796 472,795 497,794 522,794 547,793 572,793 597,792 622,792 647,793 672,793 697,794 723,795"/>
+                <TextEquiv>
+                    <Unicode>Uhrkund dessen ist die Parr¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:21;}">
+                <Coords points="190,832 271,826 285,835 323,821 344,835 368,835 410,823 452,839 479,828 478,800 463,797 446,810 411,796 386,810 367,799 345,811 288,810 269,800 228,817 189,811"/>
+                <Baseline points="195,830 220,828 245,826 270,824 296,822 321,821 346,821 371,820 397,820 422,820 447,820 473,821"/>
+                <TextEquiv>
+                    <Unicode>amtliche Fertigung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:22;}">
+                <Coords points="356,869 418,879 473,857 516,872 559,857 601,870 715,866 727,860 727,829 687,848 606,821 569,836 520,818 457,839 409,825 356,833"/>
+                <Baseline points="361,860 386,861 412,861 438,861 464,860 489,860 515,859 541,858 567,858 593,857 618,857 644,857 670,857 696,858 722,860"/>
+                <TextEquiv>
+                    <Unicode>B. E. Dompfarramt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1643200333132_78" custom="readingOrder {index:23;} date {offset:15; length:10; continued:true;year:0; day:0; month:0;}">
+                <Coords points="361,882 381,874 481,858 701,863 746,874 747,904 695,910 375,919 363,919"/>
+                <Baseline points="367,899 403,896 439,895 450,894 476,893 502,892 529,891 555,890 582,889 608,889 635,888 661,888 688,888 714,888 741,889"/>
+                <TextEquiv>
+                    <Unicode>zu Salzburg am 16. Dezem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:24;} date {offset:0; length:9; continued:true;year:0; day:0; month:0;}">
+                <Coords points="430,929 466,929 486,921 503,931 521,926 564,933 593,930 593,895 572,894 565,900 556,894 542,903 526,897 500,902 493,898 483,907 456,896 430,906"/>
+                <Baseline points="435,921 460,921 486,920 511,920 537,920 562,920 588,921"/>
+                <TextEquiv>
+                    <Unicode>ber 1841.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:25;}">
+                <Coords points="420,980 502,966 526,978 549,964 577,987 609,989 637,964 695,996 737,986 736,947 703,947 681,932 654,933 632,949 607,941 572,950 484,923 457,941 419,943"/>
+                <Baseline points="424,970 449,969 475,968 501,966 526,964 552,962 578,960 603,959 629,959 655,960 680,963 706,968 732,975"/>
+                <TextEquiv>
+                    <Unicode>Balthasar Schitteri.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:26;}">
+                <Coords points="503,1015 525,1011 555,1018 570,1010 592,1022 610,1013 709,1019 709,975 651,987 625,972 602,990 576,987 551,965 524,980 503,971"/>
+                <Baseline points="508,1004 536,1002 564,1001 592,1000 620,1000 648,1001 676,1002 704,1005"/>
+                <TextEquiv>
+                    <Unicode>Dompfarrer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tauf-Schein.&#13;
+Aus dem Taufbuche der Dompfarre&#13;
+zu Salzberg vom Jahre 1756.&#13;
+pag). 2. wird hiermit bezeugt,&#13;
+daß Joannes Chrysost. Wolfgangus Theo¬&#13;
+philus, ehelicher Sohn des Edlen&#13;
+Herrn Leopold Mozart, Hof¬&#13;
+Musikers, und der Mariie Ann&#13;
+Pertlin, dessen Gattin, am&#13;
+27sten Jäner 1756. 1: Sieben-&#13;
+Zehn Hundert, sechs u. fünfzig&#13;
+und 8 Uhr abends geboren,&#13;
+undem 28sten Jäner 1756. um 11 Uhr&#13;
+Vormittags im Beyseyn des Edlen&#13;
+Herrn Johann Theophilus Pergmayr,&#13;
+bürgerlichen Rathes u. Handesmanet&#13;
+v. Jl. Spbnsi vom Herrn Stadt¬&#13;
+Kaplane Leopold Lamprecht nach&#13;
+katholischem Ritus gekauft worden&#13;
+sing&#13;
+Uhrkund dessen ist die Parr¬&#13;
+amtliche Fertigung.&#13;
+B. E. Dompfarramt&#13;
+zu Salzburg am 16. Dezem¬&#13;
+ber 1841.&#13;
+Balthasar Schitteri.&#13;
+Dompfarrer.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

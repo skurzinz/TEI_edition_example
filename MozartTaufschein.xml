@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">MozartTaufschein</title><principal>stephan.kurz@univie.ac.at</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>DH_Sbg_showcase</title></seriesStmt><sourceDesc><p>TRP document creator: stephan.kurz@univie.ac.at</p><p>https://dme.mozarteum.at/DME/briefe/transcrscan_syn.php?g=Zm49Li4vb2Jqcy9yYXJhZG9jcy90cmFuc2NyL2h0bS9Eb2MxNzU2XzFfbXVwLmh0bSNwZzEmaW49Li4vb2Jqcy9yYXJhZG9jcy9mYWNzaW0vd2ViL0RvYzE3NTZfMV9wMDEuanBn&#xD;
+&#xD;
+https://github.com/ism-dme/mobri/blob/ac46516b73a77bebcbbfe85f7df8060817d54c97/xml/Doc1756_1_mup.xml</p></sourceDesc></fileDesc></teiHeader><facsimile><surface lrx="800" lry="1067" ulx="0" uly="0" xml:id="facs_1"><graphic height="1067px" url="MozartTaufschein.jpg" width="800px"/><zone points="149,41 149,1015 741,1015 741,41" rendition="TextRegion" xml:id="facs_1_r1">
+        <zone points="283,194 307,199 374,177 383,185 401,171 452,185 517,171 550,186 592,170 591,136 560,145 522,123 500,135 463,126 436,145 404,140 345,164 332,157 282,172" rendition="Line" xml:id="facs_1_r1l6"/>
+        <zone points="144,284 444,258 736,272 735,243 670,228 635,244 601,219 525,244 439,220 280,241 241,219 198,257 143,233" rendition="Line" xml:id="facs_1_r1l8"/>
+        <zone points="147,322 228,297 259,316 290,300 364,314 407,289 687,305 687,268 529,275 474,260 437,280 409,264 147,281" rendition="Line" xml:id="facs_1_r1l9"/>
+        <zone points="169,337 565,321 648,345 684,323 717,336 717,296 670,313 408,288 367,312 334,292 262,316 234,300 169,310" rendition="Line" xml:id="facs_1_r1l10"/>
+        <zone points="158,370 370,352 421,370 466,349 584,373 618,353 721,359 720,336 683,323 650,343 266,325 157,350" rendition="Line" xml:id="facs_1_r1l11"/>
+        <zone points="163,401 417,377 454,396 479,379 579,375 627,398 718,376 682,355 589,350 513,369 470,348 429,370 391,352 261,377 235,358 163,373" rendition="Line" xml:id="facs_1_r1l12"/>
+        <zone points="191,389 661,374 708,378 709,419 625,429 168,434 163,434 162,403" rendition="Line" xml:id="facs_1_line_1643200303807_56"/>
+        <zone points="170,448 420,436 445,450 712,452 725,413 622,430 566,406 414,403 362,429 308,409 170,427" rendition="Line" xml:id="facs_1_r1l15"/>
+        <zone points="168,480 321,461 412,473 438,457 689,474 689,454 617,444 168,451" rendition="Line" xml:id="facs_1_r1l16"/>
+        <zone points="167,505 575,483 722,506 732,470 436,459 383,477 321,461 167,479" rendition="Line" xml:id="facs_1_r1l17"/>
+        <zone points="176,547 267,518 452,522 470,538 532,507 648,545 681,526 736,529 736,507 648,510 597,487 176,504" rendition="Line" xml:id="facs_1_r1l18"/>
+        <zone points="168,571 382,545 434,560 576,545 681,560 680,531 601,537 557,520 473,535 451,522 387,520 359,536 220,526 168,548" rendition="Line" xml:id="facs_1_r1l19"/>
+        <zone points="171,597 311,577 429,579 453,596 740,586 739,552 718,549 661,566 581,545 171,568" rendition="Line" xml:id="facs_1_r1l20"/>
+        <zone points="169,634 204,614 284,631 332,604 534,620 564,602 679,621 738,611 738,589 422,593 401,577 309,577 169,599" rendition="Line" xml:id="facs_1_r1l21"/>
+        <zone points="178,660 308,631 381,654 451,633 482,653 524,633 660,635 693,655 745,644 744,615 635,603 177,623" rendition="Line" xml:id="facs_1_r1l22"/>
+        <zone points="174,688 531,655 558,671 704,668 731,665 730,634 588,631 569,646 479,629 381,652 306,632 173,665" rendition="Line" xml:id="facs_1_r1l23"/>
+        <zone points="198,723 272,699 323,707 361,683 416,704 458,689 483,707 544,689 722,698 721,664 639,661 495,678 321,665 197,686" rendition="Line" xml:id="facs_1_r1l24"/>
+        <zone points="178,737 327,718 416,739 448,716 471,733 509,715 538,736 581,720 610,739 632,718 711,727 738,701 417,704 364,682 321,708 211,700 177,715" rendition="Line" xml:id="facs_1_r1l25"/>
+        <zone points="170,773 220,760 261,776 368,744 421,761 464,747 498,770 692,754 720,771 747,761 746,720 169,739" rendition="Line" xml:id="facs_1_r1l26"/>
+        <zone points="187,814 209,807 221,794 226,795 235,791 245,799 251,793 261,790 258,772 253,773 249,770 245,772 237,767 224,765 218,760 200,775 189,773 180,776" rendition="Line" xml:id="facs_1_r1l27"/>
+        <zone points="293,818 412,797 534,812 570,794 622,810 671,793 729,811 728,771 695,777 655,762 621,780 589,767 425,774 377,754 292,772" rendition="Line" xml:id="facs_1_r1l28"/>
+        <zone points="190,832 271,826 285,835 323,821 344,835 368,835 410,823 452,839 479,828 478,800 463,797 446,810 411,796 386,810 367,799 345,811 288,810 269,800 228,817 189,811" rendition="Line" xml:id="facs_1_r1l29"/>
+        <zone points="356,869 418,879 473,857 516,872 559,857 601,870 715,866 727,860 727,829 687,848 606,821 569,836 520,818 457,839 409,825 356,833" rendition="Line" xml:id="facs_1_r1l30"/>
+        <zone points="361,882 381,874 481,858 701,863 746,874 747,904 695,910 375,919 363,919" rendition="Line" xml:id="facs_1_line_1643200333132_78"/>
+        <zone points="430,929 466,929 486,921 503,931 521,926 564,933 593,930 593,895 572,894 565,900 556,894 542,903 526,897 500,902 493,898 483,907 456,896 430,906" rendition="Line" xml:id="facs_1_r1l33"/>
+        <zone points="420,980 502,966 526,978 549,964 577,987 609,989 637,964 695,996 737,986 736,947 703,947 681,932 654,933 632,949 607,941 572,950 484,923 457,941 419,943" rendition="Line" xml:id="facs_1_r1l34"/>
+        <zone points="503,1015 525,1011 555,1018 570,1010 592,1022 610,1013 709,1019 709,975 651,987 625,972 602,990 576,987 551,965 524,980 503,971" rendition="Line" xml:id="facs_1_r1l35"/>
+      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r1" type="">
+      <lb facs="#facs_1_r1l6" n="N001"/>Tauf-Schein.
+      <lb facs="#facs_1_r1l8" n="N002"/>Aus dem Taufbuche der Dompfarre
+      <lb facs="#facs_1_r1l9" n="N003"/>zu Salzberg vom Jahre <date month="0" day="0" year="0">1756</date>.
+      <lb facs="#facs_1_r1l10" n="N004"/>pag). 2. wird hiermit bezeugt,
+      <lb facs="#facs_1_r1l11" n="N005"/>daß Joannes Chrysost. Wolfgangus Theo¬
+      <lb facs="#facs_1_r1l12" n="N006"/>philus, ehelicher Sohn des Edlen
+      <lb facs="#facs_1_line_1643200303807_56" n="N007"/><rs type="person">Herrn Leopold Mozart</rs>, Hof¬
+      <lb facs="#facs_1_r1l15" n="N008"/>Musikers, und der Mariie Ann
+      <lb facs="#facs_1_r1l16" n="N009"/>Pertlin, dessen Gattin, am
+      <lb facs="#facs_1_r1l17" n="N010"/><date month="0" day="0" year="0">27sten Jäner 1756</date>. 1: Sieben-
+      <lb facs="#facs_1_r1l18" n="N011"/>Zehn Hundert, sechs u. fünfzig
+      <lb facs="#facs_1_r1l19" n="N012"/>und 8 Uhr abends geboren,
+      <lb facs="#facs_1_r1l20" n="N013"/>undem <date month="0" day="0" year="0">28sten Jäner 1756</date>. um 11 Uhr
+      <lb facs="#facs_1_r1l21" n="N014"/>Vormittags im Beyseyn des Edlen
+      <lb facs="#facs_1_r1l22" n="N015"/>Herrn Johann Theophilus Pergmayr,
+      <lb facs="#facs_1_r1l23" n="N016"/>bürgerlichen Rathes u. Handesmanet
+      <lb facs="#facs_1_r1l24" n="N017"/>v. Jl. Spbnsi vom Herrn Stadt¬
+      <lb facs="#facs_1_r1l25" n="N018"/>Kaplane Leopold Lamprecht nach
+      <lb facs="#facs_1_r1l26" n="N019"/>katholischem Ritus gekauft worden
+      <lb facs="#facs_1_r1l27" n="N020"/>sing
+      <lb facs="#facs_1_r1l28" n="N021"/>Uhrkund dessen ist die Parr¬
+      <lb facs="#facs_1_r1l29" n="N022"/>amtliche Fertigung.
+      <lb facs="#facs_1_r1l30" n="N023"/>B. E. Dompfarramt
+      <lb facs="#facs_1_line_1643200333132_78" n="N024"/>zu Salzburg am <date month="0" day="0" year="0" continued="true">16. Dezem¬</date>
+      <lb facs="#facs_1_r1l33" n="N025"/><date month="0" day="0" year="0" continued="true">ber 1841.</date>
+      <lb facs="#facs_1_r1l34" n="N026"/>Balthasar Schitteri.
+      <lb facs="#facs_1_r1l35" n="N027"/>Dompfarrer.</ab></div></body></text></TEI>
